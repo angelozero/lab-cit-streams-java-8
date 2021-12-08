@@ -1,11 +1,11 @@
 package com.angelof.cit.lab.x02_lambda;
 
-import com.angelof.cit.lab.x00_data.Principal;
+import com.angelof.cit.lab.x00_data.Data;
 import com.angelof.cit.lab.x00_data.User;
 
 import java.util.function.Consumer;
 
-public class PrincipalLambda extends Principal {
+public class DataInfoLambda extends Data {
     public static void main(String[] args) {
 
         // 01

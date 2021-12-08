@@ -1,9 +1,9 @@
 package com.angelof.cit.lab.x03_functional_interface;
 
-import com.angelof.cit.lab.x00_data.Principal;
+import com.angelof.cit.lab.x00_data.Data;
 import com.angelof.cit.lab.x00_data.User;
 
-public class PrincipalInterfaceFuncional extends Principal {
+public class DataInfoInterfaceFuncional extends Data {
     public static void main(String[] args) {
 
         // 01

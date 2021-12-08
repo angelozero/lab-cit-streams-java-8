@@ -1,13 +1,13 @@
 package com.angelof.cit.lab.x01_consumer;
 
-import com.angelof.cit.lab.x00_data.Principal;
+import com.angelof.cit.lab.x00_data.Data;
 import com.angelof.cit.lab.x00_data.User;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 
-public class PrincipalConsumer extends Principal {
+public class DataInfoConsumer extends Data {
     public static void main(String[] args) {
 
         List<User> usersList = Arrays.asList(ANGELO, EZEQUIEL, ELIO);
